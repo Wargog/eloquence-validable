@@ -1,5 +1,5 @@
 {
-    "name": "sofa/eloquence-validable",
+    "name": "wargog/eloquence-validable",
     "description": "Flexible Searchable, Mappable, Metable, Validation and more extensions for Laravel Eloquent ORM.",
     "license": "MIT",
     "support": {
@@ -23,8 +23,8 @@
         }
     ],
     "require": {
-        "php": ">=7.1.0",
-        "sofa/eloquence-base": ">=5.5"
+        "php": ">=8.0",
+        "wargog/eloquence-base": ">=6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
